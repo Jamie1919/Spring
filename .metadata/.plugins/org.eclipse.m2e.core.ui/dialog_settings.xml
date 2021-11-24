@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\jaypr\Downloads\expense-tracker-api-master"/>
+			<item value="C:\Users\jaypr\Downloads\expense-tracker-api-master\expense-tracker-api-master"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\spring-in-action-5-samples-master\ch05\tacos"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\Spring\SpringInAction"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\spring-in-action-5-samples-master\ch04\tacos"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\spring-in-action-5-samples-master\ch03\tacos-jpa"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\spring-in-action-5-samples-master\ch03\tacos-jdbc"/>
+			<item value="C:\Users\jaypr\OneDrive\Desktop\spring-in-action-5-samples-master\ch01\tacos"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
