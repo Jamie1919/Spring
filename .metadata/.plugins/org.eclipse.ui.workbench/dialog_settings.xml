@@ -11,4 +11,6 @@
 		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
 		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="C:\sts-4.12.1.RELEASE\SpringToolSuite4.exe"/>
 	</section>
+	<section name="NewWizardAction">
+	</section>
 </section>

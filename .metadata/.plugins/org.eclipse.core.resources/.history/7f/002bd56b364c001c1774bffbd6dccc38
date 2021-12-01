@@ -1,3 +1,0 @@
-spring.datasource.url=jdbc:postgresql://localhost:5432/expensetracker
-spring.datasource.username=postgre
-spring.datasource.password=adimn
